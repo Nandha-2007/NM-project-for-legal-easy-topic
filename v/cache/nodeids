@@ -1,0 +1,19 @@
+[
+  "tests/test_ai_generator.py::test_gemini_generator_demo_mode_document_types",
+  "tests/test_ai_generator.py::test_gemini_generator_prompt_builder",
+  "tests/test_api.py::test_generate_demo_mode_indicator",
+  "tests/test_api.py::test_generate_empty_inputs_validation",
+  "tests/test_api.py::test_generate_valid_request",
+  "tests/test_api.py::test_health_endpoint",
+  "tests/test_api.py::test_root_endpoint",
+  "tests/test_exports.py::test_docx_export",
+  "tests/test_exports.py::test_pdf_export",
+  "tests/test_exports.py::test_pdf_multipage_handling",
+  "tests/test_exports.py::test_txt_export",
+  "tests/test_formatter.py::test_format_html_preview",
+  "tests/test_formatter.py::test_parse_terms_handles_bullets_and_newlines",
+  "tests/test_formatter.py::test_parse_terms_semicolon_separated",
+  "tests/test_formatter.py::test_sanitize_text_normalizes_typographic_quotes_and_dashes",
+  "tests/test_formatter.py::test_sanitize_text_preserves_legal_brackets_and_punctuation",
+  "tests/test_formatter.py::test_sanitize_text_strips_script_injection"
+]
